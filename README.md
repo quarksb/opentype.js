@@ -1,17 +1,17 @@
 <div align="center">
-  <h1>opentype.js</h1>
-  <a href="https://www.npmjs.com/package/opentype.js"><img alt="Latest version on npm" src="https://img.shields.io/npm/v/opentype.js.svg?style=flat" /></a>
-  <a href="https://www.npmjs.com/package/opentype.js"><img alt="npm downloads, yearly" src="https://img.shields.io/npm/dy/opentype.js.svg?style=flat" /></a>
-  <a href="https://github.com/opentypejs/opentype.js/blob/master/LICENSE"><img alt="MIT License" src="https://img.shields.io/github/license/opentypejs/opentype.js" /></a>
-  <a href="https://github.com/opentypejs/opentype.js/actions/workflows/ci.yml?query=branch%3Amaster"><img alt="GitHub Workflow Status (with event)" src="https://img.shields.io/github/actions/workflow/status/opentypejs/opentype.js/ci.yml"></a>
+  <h1>@kuake/opentype</h1>
+  <p>🛠 This is a modernized fork of <a href="https://github.com/opentypejs/opentype.js">opentype.js</a> supporting ES Modules and TypeScript.</p>
+  <a href="https://www.npmjs.com/package/@kuake/opentype"><img alt="Latest version on npm" src="https://img.shields.io/npm/v/@kuake/opentype.svg?style=flat" /></a>
+  <a href="https://github.com/quarksb/opentype.js/blob/master/LICENSE"><img alt="MIT License" src="https://img.shields.io/github/license/quarksb/opentype.js" /></a>
   <br /><br />
 </div>
 
 It gives you access to the **letterforms** of text from the browser or Node.js.
 
-See [https://opentype.js.org/](https://opentype.js.org/) for a live demo.
+See the [Original Project](https://opentype.js.org/) for more information.
 
-## Features
+---
+
 
 * Create a bézier path out of a piece of text.
 * Support for composite glyphs (accented letters).

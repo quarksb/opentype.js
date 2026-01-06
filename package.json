@@ -1,10 +1,17 @@
 {
-  "name": "opentype.js",
-  "description": "OpenType font parser",
+  "name": "@kuake/opentype",
+  "version": "1.3.5-beta.0",
+  "description": "An ES-native fork of opentype.js - OpenType font parser",
   "author": {
     "name": "Frederik De Bleser",
     "email": "frederik@debleser.be"
   },
+  "contributors": [
+    {
+      "name": "Quark SB",
+      "url": "https://github.com/quarksb"
+    }
+  ],
   "keywords": [
     "graphics",
     "fonts",
@@ -13,12 +20,14 @@
     "otf",
     "ttf",
     "woff",
-    "type"
+    "type",
+    "esm",
+    "typescript"
   ],
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/opentypejs/opentype.js.git"
+    "url": "git://github.com/quarksb/opentype.js.git"
   },
   "main": "./dist/opentype.js",
   "module": "./dist/opentype.js",
